@@ -18,5 +18,6 @@ It will reflect my learning in project management, software engineering, web dev
 MicroBag will also be a  Platform for Business purposes. It will reflect on teaching, designing, selling, collaborating and freelancing virtually anywhere and also remotely.
 
 
-
+As Part of my Desire to learn and build a system which seeks to protect and make the use of the Internet enjoyable, I will make reference to the World Wide Web Project.
+## Reference Work: World Wide Web Project
 #### AND I HOPE I DEDICATE MY LIFE TO THIS COURSE OF ACTION.
